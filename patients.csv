@@ -1,0 +1,9 @@
+Patient_ID,Name,Age,Gender,Disease,Medical_Expense
+P01,Ramesh,67,Male,Diabetes,45000
+P02,Sunita,54,Female,Fever,8000
+P03,Gopal,72,Male,Heart Disease,120000
+P04,Lata,61,Female,Diabetes,52000
+P05,Arjun,35,Male,Fever,6000
+P06,Radha,68,Female,Heart Disease,95000
+P07,Imran,48,Male,Asthma,15000
+P08,Geeta,63,Female,Diabetes,38000
