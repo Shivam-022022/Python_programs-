@@ -1,0 +1,554 @@
+[
+  {
+    "title": "Cheesy Spinach Egg Toast",
+    "meal_type": "Breakfast",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "spinach",
+      "bread",
+      "butter"
+    ],
+    "steps": [
+      "Melt butter in a pan over medium heat and saute spinach until wilted.",
+      "Toast the bread slices in the pan alongside the spinach.",
+      "Crack eggs directly over the spinach and season with salt and pepper.",
+      "Top with cheese, cover with a lid until melted, and place onto toasted bread."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=pGuKMYze3GQ"
+  },
+  {
+    "title": "Fluffy Banana Pancakes",
+    "meal_type": "Breakfast",
+    "ingredients": [
+      "bananas",
+      "eggs",
+      "flour",
+      "milk",
+      "butter"
+    ],
+    "steps": [
+      "In a mixing bowl, mash the ripe bananas thoroughly until smooth.",
+      "Whisk in the eggs and milk until well combined.",
+      "Gently fold in the flour until a smooth batter forms.",
+      "Melt butter on a skillet over medium heat and pour batter rounds.",
+      "Flip once bubbles appear on the surface and cook until golden brown."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=agH9lvNykrs"
+  },
+  {
+    "title": "Classic French Toast",
+    "meal_type": "Breakfast",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "milk",
+      "butter",
+      "cinnamon"
+    ],
+    "steps": [
+      "In a shallow bowl, whisk together eggs, milk, and ground cinnamon.",
+      "Melt butter in a skillet or griddle over medium heat.",
+      "Dip bread slices into the egg custard mixture for a few seconds per side.",
+      "Place bread in the hot skillet and cook for 3-4 minutes per side until golden brown."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=1sZ-GuZ9vJ8"
+  },
+  {
+    "title": "Simple Avocado Toast",
+    "meal_type": "Breakfast",
+    "ingredients": [
+      "bread",
+      "avocado",
+      "eggs",
+      "olive oil",
+      "lemon"
+    ],
+    "steps": [
+      "Toast bread slices until crisp and golden.",
+      "Cut and scoop the avocado into a bowl, mash with a squeeze of fresh lemon juice.",
+      "In a skillet, fry or poach the eggs with a drizzle of olive oil.",
+      "Spread the mashed avocado generously over warm toast and top with the cooked eggs."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=dP6btliLGy4"
+  },
+  {
+    "title": "Mediterranean Shakshuka",
+    "meal_type": "Breakfast",
+    "ingredients": [
+      "eggs",
+      "tomatoes",
+      "bell peppers",
+      "onions",
+      "olive oil"
+    ],
+    "steps": [
+      "Heat olive oil in a wide skillet over medium heat.",
+      "Dice onions and bell peppers, adding them to the skillet to saute until soft.",
+      "Stir in diced tomatoes and simmer for 10 minutes until a rich sauce forms.",
+      "Make small wells in the simmering sauce and crack the eggs into each well.",
+      "Cover with a lid and cook on low heat until egg whites are set and yolks are runny."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=m5Kn9WmOCrw"
+  },
+  {
+    "title": "Creamy Stovetop Oatmeal",
+    "meal_type": "Breakfast",
+    "ingredients": [
+      "oats",
+      "milk",
+      "honey",
+      "berries",
+      "chia seeds"
+    ],
+    "steps": [
+      "Add oats and milk to a small saucepan over medium heat.",
+      "Bring to a gentle boil, then reduce heat and simmer for 5 minutes, stirring often.",
+      "Remove from heat once thick and creamy, then stir in honey.",
+      "Pour into a bowl and top with fresh berries and a sprinkle of chia seeds."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=19vj4NSQc_g"
+  },
+  {
+    "title": "Cheesy Breakfast Quesadilla",
+    "meal_type": "Breakfast",
+    "ingredients": [
+      "tortillas",
+      "eggs",
+      "cheese",
+      "bacon",
+      "butter"
+    ],
+    "steps": [
+      "Fry bacon in a pan until crispy, then crumble into small pieces.",
+      "Scramble eggs in a small pat of butter until soft and fluffy.",
+      "Place a tortilla on a skillet, layer with shredded cheese, scrambled eggs, and bacon.",
+      "Fold the tortilla in half and cook on both sides until crispy and cheese is fully melted."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=8Q648TSYQ_Y"
+  },
+  {
+    "title": "Crispy Homemade Hash Browns",
+    "meal_type": "Breakfast",
+    "ingredients": [
+      "potatoes",
+      "onions",
+      "butter",
+      "olive oil",
+      "paprika"
+    ],
+    "steps": [
+      "Grate the potatoes and finely mince the onions.",
+      "Squeeze out all excess moisture from the potatoes using a clean kitchen towel.",
+      "Heat equal parts butter and olive oil in a large skillet over medium-high heat.",
+      "Press potatoes into a flat layer, season with paprika, and fry without disturbing for 5-6 minutes.",
+      "Flip and fry the other side until deeply golden and crispy."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=FREhiVYnLbA"
+  },
+  {
+    "title": "Classic Cheese Omelette",
+    "meal_type": "Breakfast",
+    "ingredients": [
+      "eggs",
+      "cheese",
+      "butter",
+      "milk",
+      "black pepper"
+    ],
+    "steps": [
+      "Whisk eggs with a splash of milk and black pepper until frothy.",
+      "Melt butter in a non-stick frying pan over medium-low heat.",
+      "Pour in the egg mixture and gently swirl until the base starts setting.",
+      "Sprinkle shredded cheese across the center, fold one half over, and slide onto a plate."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=ZuClpSWIk0Y"
+  },
+  {
+    "title": "Greek Yogurt Fruit Parfait",
+    "meal_type": "Breakfast",
+    "ingredients": [
+      "greek yogurt",
+      "honey",
+      "granola",
+      "berries",
+      "bananas"
+    ],
+    "steps": [
+      "Slice bananas and wash fresh berries.",
+      "Spoon a thick layer of Greek yogurt into a glass or mason jar.",
+      "Add a layer of sliced bananas and fresh berries.",
+      "Sprinkle a generous layer of crunchy granola and drizzle with honey.",
+      "Repeat layers and serve chilled immediately."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=MO84Hzmq5VM"
+  },
+  {
+    "title": "Tomato Garlic Pasta",
+    "meal_type": "Lunch",
+    "ingredients": [
+      "pasta",
+      "tomatoes",
+      "garlic",
+      "olive oil",
+      "basil"
+    ],
+    "steps": [
+      "Boil pasta in salted water according to package directions until al dente.",
+      "In a separate skillet, heat olive oil and saute minced garlic until fragrant.",
+      "Add chopped tomatoes and simmer until they break down into a sauce.",
+      "Toss the cooked pasta into the sauce and garnish with fresh basil."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=p5Xfabe2SvQ"
+  },
+  {
+    "title": "Quick Veggie Stir Fry",
+    "meal_type": "Lunch",
+    "ingredients": [
+      "rice",
+      "soy sauce",
+      "carrots",
+      "peppers",
+      "oil"
+    ],
+    "steps": [
+      "Cook rice or use pre-cooked day-old rice.",
+      "Heat oil in a wok or pan over high heat.",
+      "Add sliced carrots and bell peppers; stir-fry for 3-4 minutes until crisp-tender.",
+      "Drizzle soy sauce over the vegetables, stir well, and serve over hot rice."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=spDs_wzn8To"
+  },
+  {
+    "title": "Classic Grilled Cheese Sandwich",
+    "meal_type": "Lunch",
+    "ingredients": [
+      "bread",
+      "cheddar cheese",
+      "butter",
+      "garlic",
+      "tomatoes"
+    ],
+    "steps": [
+      "Butter one side of each slice of bread and lightly rub with a cut clove of garlic.",
+      "Place bread butter-side down on a medium-low skillet.",
+      "Layer sliced cheddar cheese and thin tomato slices between the bread.",
+      "Grill both sides slowly until bread is toasted golden-brown and cheese is melted."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=bJ71Nfm6frM"
+  },
+  {
+    "title": "Egg Fried Rice",
+    "meal_type": "Lunch",
+    "ingredients": [
+      "rice",
+      "eggs",
+      "soy sauce",
+      "green onions",
+      "oil"
+    ],
+    "steps": [
+      "Heat oil in a large wok over medium-high heat.",
+      "Crack in eggs and scramble vigorously into small curds.",
+      "Add cold cooked rice and toss continuously to separate grains.",
+      "Drizzle soy sauce over rice and stir in chopped green onions right before serving."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=xWSiBOeqon8"
+  },
+  {
+    "title": "Creamy Tomato Basil Soup",
+    "meal_type": "Lunch",
+    "ingredients": [
+      "tomatoes",
+      "heavy cream",
+      "garlic",
+      "butter",
+      "basil"
+    ],
+    "steps": [
+      "Melt butter in a pot and saute minced garlic until aromatic.",
+      "Add chopped fresh tomatoes and simmer on medium heat for 15 minutes.",
+      "Puree the soup until silky smooth using an immersion blender.",
+      "Stir in heavy cream and fresh chopped basil, then simmer for 2 more minutes."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=W88m7LKFR9s"
+  },
+  {
+    "title": "Mediterranean Chickpea Salad",
+    "meal_type": "Lunch",
+    "ingredients": [
+      "chickpeas",
+      "cucumbers",
+      "tomatoes",
+      "olive oil",
+      "lemon"
+    ],
+    "steps": [
+      "Rinse and drain canned chickpeas thoroughly.",
+      "Dice fresh cucumbers and ripe tomatoes into bite-sized cubes.",
+      "In a salad bowl, toss chickpeas, cucumbers, and tomatoes together.",
+      "Drizzle extra virgin olive oil and fresh lemon juice over the top, then mix well."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=QimOnrFNNDg"
+  },
+  {
+    "title": "Fresh Caprese Sandwich",
+    "meal_type": "Lunch",
+    "ingredients": [
+      "bread",
+      "mozzarella",
+      "tomatoes",
+      "basil",
+      "olive oil"
+    ],
+    "steps": [
+      "Slice crusty artisan bread and lightly drizzle inside with olive oil.",
+      "Slice fresh mozzarella cheese and ripe tomatoes into even rounds.",
+      "Layer tomato slices, mozzarella, and whole basil leaves inside the bread.",
+      "Press lightly and serve fresh or toast slightly in a panini press."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=5u3rw12IpgQ"
+  },
+  {
+    "title": "Mushroom Fried Rice",
+    "meal_type": "Lunch",
+    "ingredients": [
+      "rice",
+      "mushrooms",
+      "garlic",
+      "soy sauce",
+      "oil"
+    ],
+    "steps": [
+      "Slice mushrooms thinly and finely chop garlic cloves.",
+      "Heat oil in a skillet over high heat and saute garlic and mushrooms until browned.",
+      "Add pre-cooked cold rice into the pan and break up any clumps.",
+      "Splash with soy sauce, toss everything over high heat for 3 minutes, and serve hot."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=0hHJtwPu5f4"
+  },
+  {
+    "title": "New York Deli Tuna Salad Wrap",
+    "meal_type": "Lunch",
+    "ingredients": [
+      "canned tuna",
+      "mayonnaise",
+      "celery",
+      "tortillas",
+      "lemon"
+    ],
+    "steps": [
+      "Drain canned tuna and flake into a mixing bowl.",
+      "Finely dice celery ribs and add to the bowl.",
+      "Mix in creamy mayonnaise and a squeeze of fresh lemon juice until well coated.",
+      "Spoon tuna mixture into warm tortillas, wrap tightly, and slice diagonally."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=4iH4cuFlaRk"
+  },
+  {
+    "title": "Classic BLT Sandwich",
+    "meal_type": "Lunch",
+    "ingredients": [
+      "bread",
+      "bacon",
+      "lettuce",
+      "tomatoes",
+      "mayonnaise"
+    ],
+    "steps": [
+      "Fry bacon strips in a pan until crispy and drain on paper towels.",
+      "Lightly toast bread slices until golden brown.",
+      "Spread mayonnaise evenly across each toasted bread slice.",
+      "Layer crisp bacon, sliced ripe tomatoes, and fresh lettuce leaves to assemble."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=i-5FrPRiYII"
+  },
+  {
+    "title": "Butter Garlic Chicken",
+    "meal_type": "Dinner",
+    "ingredients": [
+      "chicken breast",
+      "garlic",
+      "butter",
+      "heavy cream",
+      "parmesan"
+    ],
+    "steps": [
+      "Season chicken breast pieces and sear in melted butter until golden on both sides.",
+      "Remove chicken and saute minced garlic in remaining butter until fragrant.",
+      "Pour in heavy cream and bring to a gentle simmer.",
+      "Whisk in grated parmesan cheese until a smooth creamy sauce forms.",
+      "Return chicken to the pan and coat thoroughly in the rich sauce."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=RHSPVKkJa90"
+  },
+  {
+    "title": "Baked Lemon Garlic Salmon",
+    "meal_type": "Dinner",
+    "ingredients": [
+      "salmon",
+      "lemon",
+      "garlic",
+      "butter",
+      "parsley"
+    ],
+    "steps": [
+      "Preheat oven to 400F (200C) and place salmon fillets on a baking sheet lined with foil.",
+      "Melt butter and mix with minced garlic, fresh lemon juice, and chopped parsley.",
+      "Pour butter garlic mixture over salmon fillets generously.",
+      "Bake for 12-15 minutes until salmon flakes easily with a fork."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=3CFCt5v_Jf0"
+  },
+  {
+    "title": "Classic Ground Beef Tacos",
+    "meal_type": "Dinner",
+    "ingredients": [
+      "ground beef",
+      "tortillas",
+      "cheddar cheese",
+      "salsa",
+      "sour cream"
+    ],
+    "steps": [
+      "Brown ground beef in a skillet over medium heat, draining excess grease.",
+      "Warm tortillas on a dry skillet or in the oven for a few minutes.",
+      "Fill tortillas with seasoned ground beef.",
+      "Top generously with shredded cheddar cheese, fresh salsa, and a dollop of sour cream."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=mUlipJl5iOQ"
+  },
+  {
+    "title": "Garlic Butter Shrimp Pasta",
+    "meal_type": "Dinner",
+    "ingredients": [
+      "pasta",
+      "shrimp",
+      "garlic",
+      "butter",
+      "lemon"
+    ],
+    "steps": [
+      "Cook pasta in a pot of boiling salted water until al dente, reserving 1/2 cup pasta water.",
+      "Melt butter in a large skillet and saute minced garlic for 1 minute.",
+      "Add peeled shrimp and cook for 2-3 minutes per side until pink and opaque.",
+      "Toss cooked pasta and a squeeze of fresh lemon into the skillet with shrimp.",
+      "Add a splash of pasta water to coat everything in a silky garlic butter glaze."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=r0XGieU6Zos"
+  },
+  {
+    "title": "Honey Garlic Glazed Chicken",
+    "meal_type": "Dinner",
+    "ingredients": [
+      "chicken thighs",
+      "honey",
+      "soy sauce",
+      "garlic",
+      "olive oil"
+    ],
+    "steps": [
+      "Heat olive oil in a skillet over medium heat.",
+      "Add chicken thighs and sear for 5-6 minutes on each side until deeply browned.",
+      "In a small bowl, whisk together honey, soy sauce, and minced garlic.",
+      "Pour honey garlic mixture into the skillet with chicken and bring to a simmer.",
+      "Baste chicken continuously as sauce thickens into a glossy sticky glaze."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=QPX8gbytLRo"
+  },
+  {
+    "title": "Creamy Macaroni and Cheese",
+    "meal_type": "Dinner",
+    "ingredients": [
+      "macaroni",
+      "cheddar cheese",
+      "milk",
+      "butter",
+      "flour"
+    ],
+    "steps": [
+      "Boil macaroni pasta until al dente, then drain.",
+      "Melt butter in a saucepan over medium heat, whisk in flour, and cook for 1 minute.",
+      "Gradually pour in milk while whisking constantly until sauce thickens.",
+      "Remove from heat and fold in shredded cheddar cheese until completely melted and smooth.",
+      "Toss drained macaroni into the velvety cheese sauce and serve warm."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=IzLn0pXntNE"
+  },
+  {
+    "title": "Crispy Garlic Roasted Potatoes",
+    "meal_type": "Dinner",
+    "ingredients": [
+      "potatoes",
+      "garlic",
+      "olive oil",
+      "rosemary",
+      "parmesan"
+    ],
+    "steps": [
+      "Preheat oven to 400F (200C) and cut potatoes into bite-sized cubes.",
+      "Toss potatoes with olive oil, minced garlic, and chopped fresh rosemary.",
+      "Spread in a single layer on a baking sheet so they do not overlap.",
+      "Roast for 35-40 minutes until golden and crisp, turning halfway through.",
+      "Sprinkle freshly grated parmesan cheese over hot potatoes right out of the oven."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=xx5sheA5LL8"
+  },
+  {
+    "title": "Sizzling Chicken Fajitas",
+    "meal_type": "Dinner",
+    "ingredients": [
+      "chicken breast",
+      "bell peppers",
+      "onions",
+      "tortillas",
+      "olive oil"
+    ],
+    "steps": [
+      "Slice chicken breast, bell peppers, and onions into thin strips.",
+      "Heat olive oil in a heavy cast-iron skillet over high heat.",
+      "Add chicken strips and sear for 4-5 minutes until cooked through.",
+      "Toss in sliced bell peppers and onions, cooking quickly for 3-4 minutes until tender-crisp.",
+      "Warm tortillas and serve filled with the sizzling fajita mixture."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=tgintJ3-79A"
+  },
+  {
+    "title": "Easy Teriyaki Chicken with Rice",
+    "meal_type": "Dinner",
+    "ingredients": [
+      "chicken thighs",
+      "teriyaki sauce",
+      "rice",
+      "broccoli",
+      "sesame seeds"
+    ],
+    "steps": [
+      "Steam rice and cook broccoli florets until tender-crisp.",
+      "Cut chicken thighs into bite-sized pieces and cook in a skillet until browned.",
+      "Pour teriyaki sauce over the chicken and simmer until glaze thickens and coats the meat.",
+      "Assemble bowls with warm rice, steamed broccoli, and glazed teriyaki chicken.",
+      "Garnish with toasted sesame seeds before serving."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=D1DDxp1Gc6I"
+  },
+  {
+    "title": "Spaghetti Aglio e Olio",
+    "meal_type": "Dinner",
+    "ingredients": [
+      "spaghetti",
+      "garlic",
+      "olive oil",
+      "red pepper flakes",
+      "parsley"
+    ],
+    "steps": [
+      "Cook spaghetti in a pot of heavily salted water until al dente, reserving 1 cup of pasta water.",
+      "In a wide skillet, gently heat olive oil and thinly sliced garlic over medium-low heat.",
+      "Cook garlic until pale golden, then add red pepper flakes.",
+      "Transfer cooked spaghetti into the oil with chopped parsley and a splash of reserved pasta water.",
+      "Toss vigorously for 1-2 minutes until an emulsified glossy sauce coats the pasta."
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=UmTqq_o6FSI"
+  }
+]
